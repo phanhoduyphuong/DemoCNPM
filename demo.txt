@@ -1,1 +1,7 @@
 Xin chào các bạn
+class Demo{
+  Demo(){
+    Demo();
+  }
+
+}
